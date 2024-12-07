@@ -1,6 +1,6 @@
-# Balon
+# Balloon
 
-U ovom zadatku potrebno je implementirati igricu u kojem igrač kontrolira balon na vrući zrak. Cilj igre je ostvariti što veću visinu s balonom. Balon ima početnu količinu goriva koja se s vremenom smanjuje. Balon mora izbjegavati ptice i oblake. Balon također može pokupiti _power-upove_ poput štita i dodatnog goriva
+U ovom zadatku potrebno je implementirati igricu u kojoj igrač kontrolira balon na vrući zrak. Cilj igre je ostvariti što veću visinu s balonom. Balon ima početnu količinu goriva koja se s vremenom smanjuje. Balon mora izbjegavati ptice i oblake. Balon također može pokupiti _power-upove_ poput štita i dodatnog goriva
 
 ## Statički funkcionalni zahtjevi
 
